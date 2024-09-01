@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Space Grotesk";
+}
+/* ul:first-child{
+    margin-left: 60%;
+} */
+.quote{
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+.my-card{
+    box-shadow: 0px 0px 0px 0px #191a23;
+    background-color: #f3f3f3;
+    padding: 20px;
+    padding-left: 50px;
+    border-radius: 45px;
+}
+.optimization{
+    margin-bottom: 70px;
+}
