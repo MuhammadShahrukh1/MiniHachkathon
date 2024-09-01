@@ -17,12 +17,27 @@ body{
     border: 1px solid grey;
 }
 .my-card{
-    box-shadow: 0px 0px 0px 0px #191a23;
+    box-shadow: 0px 5px 0px 0px #191a23;
     background-color: #f3f3f3;
     padding: 20px;
     padding-left: 50px;
     border-radius: 45px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 .optimization{
     margin-bottom: 70px;
+    /* background-color: #b9ff66; */
+}
+.my-card1{
+    background-color: #b9ff66;
+    box-shadow: 0px 5px 0px 0px #191a23;
+    /* background-color: #f3f3f3; */
+    padding: 20px;
+    padding-left: 50px;
+    border-radius: 45px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
